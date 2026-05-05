@@ -5,7 +5,7 @@
 <h3>🚀 Senior Full Stack & Mobile Engineer &nbsp;·&nbsp; AI/LLM Integration &nbsp;·&nbsp; System Architecture &nbsp;·&nbsp; Technical Leadership</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/7%2B%20Years%20Experience-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/9%2B%20Years%20Experience-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/1M%2B%20Users%20Served-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to%20Remote-16A34A?style=for-the-badge" />
 </p>
