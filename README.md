@@ -38,11 +38,11 @@
 
 ## 🎯 About Me
 
-Senior Full Stack & Mobile Engineer with **7+ years** of experience designing, building, and scaling production systems used by over **1 million users**. Expertise across backend APIs, cloud infrastructure, Expo/React Native mobile, and Next.js/NestJS web frontends with TypeScript and Prisma ORM.
+Senior Full Stack & Mobile Engineer with **9+ years** of experience designing, building, and scaling production systems used by over **1 million users**. Expertise across backend APIs, cloud infrastructure, Expo/React Native mobile, and Next.js/NestJS web frontends with TypeScript and Prisma ORM.
 
 Focused on **AI-native product engineering** — shipping OpenAI and Anthropic Claude integrations, production RAG pipelines, and LLM-powered features that cut inference costs by **40%** and P95 latency by **55%**. Proven impact across backend, mobile, web, and AI/LLM integration — improving team delivery velocity by **18%**, API throughput by **20%**, and infrastructure costs by **15%**.
 
-> 🚀 Led 7-engineer teams · Shipped apps to App Store & Play Store · Built systems handling 1M+ concurrent users · Reduced infrastructure costs by 15% · Achieved 99.9% uptime · Cut LLM inference costs by 40%
+> 🚀 Led 3-engineer teams · Shipped apps to App Store & Play Store · Built systems handling 1M+ concurrent users · Reduced infrastructure costs by 15% · Achieved 99.9% uptime · Cut LLM inference costs by 40%
 
 ---
 
